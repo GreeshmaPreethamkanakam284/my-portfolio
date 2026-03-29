@@ -26,7 +26,5 @@ This is my personal portfolio website built for my frontend development internsh
 | Task 3: API Integration | 🚀 Coming Soon |
 | Task 4: UI Clone Challenge | 🚀 Coming Soon |
 
-## 📧 Contact
-- **Email:** kanakamgreeshmapreetham2004@gmail.com
-- **GitHub:** [GreeshmaPreethamkanakam284]
+
 
